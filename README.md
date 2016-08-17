@@ -1,0 +1,1 @@
+# stratum-dental-paperless-office
