@@ -1,3 +1,4 @@
+layout_spectrum: 0.1346802511252463
 typography_spectrum: 0.270561232464388
 color:
   brandStrength: 0.11825773096643388
@@ -10,13 +11,4 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-layout_spectrum: 0.1346802511252463
-author:
-  name: 'stratum access technologies, inc.'
-  email: access@stratumaccess.com
-  url: www.stratumaccess.com/
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/735d595e-9bec-4aff-94b7-d81106432bf2.png
-name: 'Stratum Access Technologies, Inc.'
-title: The Paperless Dental Office People
-description: 'Stratum Access Technologies, Inc.'
+name: Stratum - Dental Paperless Office
